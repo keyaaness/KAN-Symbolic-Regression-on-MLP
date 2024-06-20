@@ -1,1 +1,2 @@
-# KAN-Symbolic-Regression-on-MLP
+# KAN Symbolic Regression on MLP Data
+## Kolmogorov Arnold Network Symbolic Regression
